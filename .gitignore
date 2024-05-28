@@ -1,22 +1,6 @@
 .vscode
+build/
+project/.import
 
 # Godot 4+ specific ignores
 .godot/
-
-# Godot-specific
-.import/
-.export/
-export.cfg
-export_presets.cfg
-
-# Mono-specific
-.mono/
-.data_mono/
-
-# OS-specific
-.DS_Store
-Thumbs.db
-
-# Other
-*.tmp
-*.log
